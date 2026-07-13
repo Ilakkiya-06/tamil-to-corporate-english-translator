@@ -1,0 +1,6 @@
+{
+  "name": "Tamil to Corporate English Translator",
+  "description": "An interactive speech and text tool that translates Tamil input into professional corporate English tailored for Email, WhatsApp, and Team Chat.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
